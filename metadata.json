@@ -1,0 +1,6 @@
+{
+  "name": "X-15 Simulator",
+  "description": "3D Flight Simulation of the hypersonic North American X-15 rocket plane including suborbital flight, hypersonic re-entry, and dry lakebed landings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
